@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="zh-Hans-CN">
+<meta charset="utf-8" />
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+<meta name="description" content="Description">
+<meta name="keywords" content="Keywords">
+
+
+<title>Hugo Theme Walden ｜ 瓦尔登湖</title>
+
+
+<link href="/favicon.png" rel="icon">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css">
+
+
+
+
+<link rel="stylesheet" type="text/css" media="screen" href="https://walden.genway.com.cn/css/main.css"><body><header id="header">
+    <div class="container">
+
+        <div class="logo">瓦尔登湖</div>
+
+        <nav class="menu">
+            
+            
+                
+                
+                <a class="menu-item " href="/zh/">首页</a>
+            
+                
+                
+                <a class="menu-item  active " href="/zh/blog/">博客</a>
+            
+                
+                
+                <a class="menu-item " href="/zh/gallery/">图片</a>
+            
+
+            
+                    <a class="menu-item" href="https://walden.genway.com.cn/">English</a>
+                    
+                
+                
+            
+        </nav>
+
+    </div>
+</header>
+<div class="container"><ol class="breadcrumb">
+    
+    
+        
+    
+        
+    
+    <li class="breadcrumb-item">首页</li>
+
+    
+    <li class="breadcrumb-item">博客</li>
+
+    
+    <li class="breadcrumb-item">Hugo Theme Walden</li>
+
+</ol>
+</div>
+
+
+<div id="stager">
+    <div class="container">
+        <main><div class="items-container">
+    <div class="content">
+
+        
+        <article>
+            <div class="content-header">
+                <h1 class="title">Hugo Theme Walden</h1>
+                <p class="meta">
+                    <span>Dec 27, 2022</span>
+                    <span>By</span>
+                    <span>
+                    
+                    Homecat
+                    
+                    </span>
+                </p>
+            </div>
+            <div class="markdown"><p>After reading <i><b>Walden</b></i>, a collection of essays by American writer Henry David Thoreau, I was deeply influenced by his love of nature and simple living. So, I wrote this concise and clear theme for my personal website and named it Walden.</p>
+<h2 id="features">Features</h2>
+<p>Walden is a simple-structured, easy-to-use Hugo theme for personal websites.</p>
+<ul>
+<li>Responsive design</li>
+<li>Headline on homepage</li>
+<li>Thumbnail for post</li>
+<li>Personalized shortcodes</li>
+<li>&hellip;</li>
+</ul>
+<h2 id="demo">Demo</h2>
+<p>Two ways to see the demo：</p>
+<ul>
+<li>
+<p>Visit <a href="https://genway.com.cn/">author&rsquo;s site</a>.</p>
+</li>
+<li>
+<p>View demo by clone repository from Github.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span>git clone https://github.com/homecat805/hugo-theme-walden.git hugo-theme-walden
+</span></span><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2</span><span>cd exampleSite
+</span></span><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3</span><span>hugo server --themesDir ../..
+</span></span></code></pre></div></li>
+</ul>
+<h2 id="quick-start">Quick start</h2>
+<p>The <a href="https://gohugo.io/installation/">Hugo documentation</a> describes in detail how to install on different operating systems, which will not be repeated here, the operating system related to this article is Ubuntu 22.04 LTS.</p>
+<p>Create the website root directory <mark>mysite</mark> and perform git initialization, then install the theme as a module to the <mark>mysite/themes</mark>, and copy all the files in the <mark>exampleSite</mark> in theme directory to the root directory of the website.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-v" data-lang="v"><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span>mkdir mysite
+</span></span><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">2</span><span>cd mysite
+</span></span><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">3</span><span>git init
+</span></span><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">4</span><span>git branch <span style="color:#f92672">-</span>m main
+</span></span><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">5</span><span>mkdir themes
+</span></span><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">6</span><span>git submodule add git<span style="color:#f92672">@</span>github.com:<span style="color:#a6e22e">Homecat805</span><span style="color:#f92672">/</span>hugo<span style="color:#f92672">-</span>theme<span style="color:#f92672">-</span>walden.git themes<span style="color:#f92672">/</span>hugo<span style="color:#f92672">-</span>theme<span style="color:#f92672">-</span>walden
+</span></span><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">7</span><span>cp <span style="color:#f92672">-</span>rf themes<span style="color:#f92672">/</span>hugo<span style="color:#f92672">-</span>theme<span style="color:#f92672">-</span>walden<span style="color:#f92672">/</span>exampleSite<span style="color:#f92672">/*</span> .<span style="color:#f92672">/</span>
+</span></span></code></pre></div><p>In subsequent use, if you need to update the theme, use the following command.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-v" data-lang="v"><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span>git submodule update <span style="color:#f92672">--</span>remote <span style="color:#f92672">--</span>merge
+</span></span></code></pre></div><h2 id="configuration">Configuration</h2>
+<p>The configuration file for the site is <mark>config.toml</mark>。</p>
+<ul>
+<li>
+<p>Configure baseURL: URL of user&rsquo;s website on the internet.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span>baseURL = &#34;Your domain&#34;
+</span></span></code></pre></div></li>
+<li>
+<p>Configure theme</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span>theme = &#34;hugo-theme-walden&#34;
+</span></span></code></pre></div></li>
+</ul>
+<h2 id="preview">Preview</h2>
+<p>Excuting the command, visit <mark>http://localhost:1313/</mark> to preview website locally.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span>hugo server
+</span></span></code></pre></div><h2 id="create-site">Create Site</h2>
+<p>Executing the command, the system will store all the files generated for the static website in the <mark>mysite/public</mark> directory, which can be accessed after uploading to the Internet.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span style="white-space:pre;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f7f7f">1</span><span>hugo
+</span></span></code></pre></div><h2 id="license">License</h2>
+<p>Walden is licensed under the MIT，Check the  <a href="https://github.com/homecat805/hugo-theme-walden/blob/master/LICENSE">LICENSE</a> file for details.</p></div>
+        </article>
+
+
+
+        
+        
+        <div class="content-tag">
+            
+            <a href="/zh/tags/hugo">Hugo</a>
+            
+            <a href="/zh/tags/walden">Walden</a>
+            
+        </div> 
+        
+
+
+
+        
+        <div class="content-nav">
+            
+            <div>
+                <a href="https://walden.genway.com.cn/zh/blog/samples-of-shortcodes/">
+                    <span>上篇：</span>
+                    <span>Samples of Shortcodes</span>
+                </a>
+            </div>
+            
+            
+        </div>
+        
+    </div>
+</div></main>
+        <aside><div class="card-container">
+    <div id="toc">
+        <div class="card">
+            <div class="card-title">目录</div>
+            <div class="normal"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#features">Features</a></li>
+    <li><a href="#demo">Demo</a></li>
+    <li><a href="#quick-start">Quick start</a></li>
+    <li><a href="#configuration">Configuration</a></li>
+    <li><a href="#preview">Preview</a></li>
+    <li><a href="#create-site">Create Site</a></li>
+    <li><a href="#license">License</a></li>
+  </ul>
+</nav></div>
+        </div>
+    </div>
+</div><div class="card-container">
+
+    
+    
+    <section class="card">
+        <div class="card-title">相关文章</div>
+        <div class="normal">
+            <ul>
+                
+                <li><a href="https://walden.genway.com.cn/zh/blog/samples-of-markdown-elements/">Samples of Markdown Elements</a></li>
+                
+                <li><a href="https://walden.genway.com.cn/zh/blog/samples-of-shortcodes/">Samples of Shortcodes</a></li>
+                
+            </ul>
+        </div>
+    </section>
+    
+
+</div></aside>
+    </div>
+</div>
+
+<div id="totoc">
+    <a href="#toc"><i class="bi bi-arrow-up-square"></i></a>
+</div>
+<header id="footer">
+    <div class="container">
+        <p class="copyright">© 2023 家猫 - All Rights Reserved.</p>
+    </div>
+</header>
+
+
+
+<script type="text/javascript" src="/js/main.js"></script></body>
+</html>

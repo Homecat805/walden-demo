@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>标签 on 瓦尔登湖</title>
+    <link>https://walden.genway.com.cn/zh/tags/</link>
+    <description>Recent content in 标签 on 瓦尔登湖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans-CN</language>
+    <managingEditor>13050082@qq.com (家猫)</managingEditor>
+    <webMaster>13050082@qq.com (家猫)</webMaster>
+    <lastBuildDate>Tue, 27 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="https://walden.genway.com.cn/zh/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://walden.genway.com.cn/zh/tags/hugo/</link>
+      <pubDate>Tue, 27 Dec 2022 19:03:08 +0800</pubDate>
+      <author>13050082@qq.com (家猫)</author>
+      <guid>https://walden.genway.com.cn/zh/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walden</title>
+      <link>https://walden.genway.com.cn/zh/tags/walden/</link>
+      <pubDate>Tue, 27 Dec 2022 19:03:08 +0800</pubDate>
+      <author>13050082@qq.com (家猫)</author>
+      <guid>https://walden.genway.com.cn/zh/tags/walden/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gallery</title>
+      <link>https://walden.genway.com.cn/zh/tags/gallery/</link>
+      <pubDate>Sun, 18 Dec 2022 14:57:57 +0800</pubDate>
+      <author>13050082@qq.com (家猫)</author>
+      <guid>https://walden.genway.com.cn/zh/tags/gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shortcode</title>
+      <link>https://walden.genway.com.cn/zh/tags/shortcode/</link>
+      <pubDate>Thu, 15 Dec 2022 10:10:34 +0800</pubDate>
+      <author>13050082@qq.com (家猫)</author>
+      <guid>https://walden.genway.com.cn/zh/tags/shortcode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://walden.genway.com.cn/zh/tags/markdown/</link>
+      <pubDate>Wed, 14 Dec 2022 20:18:32 +0800</pubDate>
+      <author>13050082@qq.com (家猫)</author>
+      <guid>https://walden.genway.com.cn/zh/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

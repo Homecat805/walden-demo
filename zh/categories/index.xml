@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>分类 on 瓦尔登湖</title>
+    <link>https://walden.genway.com.cn/zh/categories/</link>
+    <description>Recent content in 分类 on 瓦尔登湖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans-CN</language>
+    <managingEditor>13050082@qq.com (家猫)</managingEditor>
+    <webMaster>13050082@qq.com (家猫)</webMaster>
+    <lastBuildDate>Tue, 27 Dec 2022 19:03:08 +0800</lastBuildDate><atom:link href="https://walden.genway.com.cn/zh/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IT Notes</title>
+      <link>https://walden.genway.com.cn/zh/categories/it-notes/</link>
+      <pubDate>Tue, 27 Dec 2022 19:03:08 +0800</pubDate>
+      <author>13050082@qq.com (家猫)</author>
+      <guid>https://walden.genway.com.cn/zh/categories/it-notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://walden.genway.com.cn/zh/categories/test/</link>
+      <pubDate>Sun, 18 Dec 2022 14:57:57 +0800</pubDate>
+      <author>13050082@qq.com (家猫)</author>
+      <guid>https://walden.genway.com.cn/zh/categories/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

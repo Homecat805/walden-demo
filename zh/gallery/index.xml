@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图片 on 瓦尔登湖</title>
+    <link>https://walden.genway.com.cn/zh/gallery/</link>
+    <description>Recent content in 图片 on 瓦尔登湖</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-Hans-CN</language>
+    <managingEditor>13050082@qq.com (家猫)</managingEditor>
+    <webMaster>13050082@qq.com (家猫)</webMaster>
+    <lastBuildDate>Sun, 18 Dec 2022 14:57:57 +0800</lastBuildDate><atom:link href="https://walden.genway.com.cn/zh/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Album Sample</title>
+      <link>https://walden.genway.com.cn/zh/gallery/sample-of-album/</link>
+      <pubDate>Sun, 18 Dec 2022 14:57:57 +0800</pubDate>
+      <author>13050082@qq.com (家猫)</author>
+      <guid>https://walden.genway.com.cn/zh/gallery/sample-of-album/</guid>
+      <description>&lt;p&gt;In Hugo-theme-walden, the Gallery module is added to display photos. Through this post, you can see the specific forms of photos of different sizes on the screen.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
