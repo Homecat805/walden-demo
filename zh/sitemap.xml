@@ -2,60 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://walden.genway.com.cn/zh/tags/hugo/</loc>
-    <lastmod>2022-12-27T19:03:08+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/tags/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/tags/hugo/"
-                />
-  </url><url>
-    <loc>https://walden.genway.com.cn/zh/blog/hugo-theme-walden/</loc>
-    <lastmod>2022-12-27T19:03:08+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/blog/hugo-theme-walden/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/blog/hugo-theme-walden/"
-                />
-  </url><url>
-    <loc>https://walden.genway.com.cn/zh/categories/it-notes/</loc>
-    <lastmod>2022-12-27T19:03:08+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/categories/it-notes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/categories/it-notes/"
-                />
-  </url><url>
-    <loc>https://walden.genway.com.cn/zh/tags/walden/</loc>
-    <lastmod>2022-12-27T19:03:08+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/tags/walden/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/tags/walden/"
-                />
-  </url><url>
     <loc>https://walden.genway.com.cn/zh/tags/</loc>
-    <lastmod>2022-12-27T19:03:08+08:00</lastmod>
+    <lastmod>2023-01-21T16:50:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -67,21 +15,8 @@
                 href="https://walden.genway.com.cn/zh/tags/"
                 />
   </url><url>
-    <loc>https://walden.genway.com.cn/zh/blog/</loc>
-    <lastmod>2022-12-27T19:03:08+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/blog/"
-                />
-  </url><url>
     <loc>https://walden.genway.com.cn/zh/categories/</loc>
-    <lastmod>2022-12-27T19:03:08+08:00</lastmod>
+    <lastmod>2023-01-21T16:50:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -93,8 +28,17 @@
                 href="https://walden.genway.com.cn/zh/categories/"
                 />
   </url><url>
+    <loc>https://walden.genway.com.cn/zh/categories/%E7%8C%AB%E5%AE%B6%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2023-01-21T16:50:12+08:00</lastmod>
+  </url><url>
+    <loc>https://walden.genway.com.cn/zh/gallery/dailylife-at-cat-home/</loc>
+    <lastmod>2023-01-21T16:50:12+08:00</lastmod>
+  </url><url>
+    <loc>https://walden.genway.com.cn/zh/tags/%E4%B8%8A%E6%B5%B7/</loc>
+    <lastmod>2023-01-21T16:50:12+08:00</lastmod>
+  </url><url>
     <loc>https://walden.genway.com.cn/zh/</loc>
-    <lastmod>2022-12-27T19:03:08+08:00</lastmod>
+    <lastmod>2023-01-21T16:50:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -106,47 +50,8 @@
                 href="https://walden.genway.com.cn/zh/"
                 />
   </url><url>
-    <loc>https://walden.genway.com.cn/zh/gallery/sample-of-album/</loc>
-    <lastmod>2022-12-18T14:57:57+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/gallery/sample-of-album/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/gallery/sample-of-album/"
-                />
-  </url><url>
-    <loc>https://walden.genway.com.cn/zh/tags/gallery/</loc>
-    <lastmod>2022-12-18T14:57:57+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/tags/gallery/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/tags/gallery/"
-                />
-  </url><url>
-    <loc>https://walden.genway.com.cn/zh/categories/test/</loc>
-    <lastmod>2022-12-18T14:57:57+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/categories/test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/categories/test/"
-                />
-  </url><url>
     <loc>https://walden.genway.com.cn/zh/gallery/</loc>
-    <lastmod>2022-12-18T14:57:57+08:00</lastmod>
+    <lastmod>2023-01-21T16:50:12+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -158,56 +63,38 @@
                 href="https://walden.genway.com.cn/zh/gallery/"
                 />
   </url><url>
-    <loc>https://walden.genway.com.cn/zh/blog/samples-of-shortcodes/</loc>
-    <lastmod>2022-12-15T10:10:34+08:00</lastmod>
+    <loc>https://walden.genway.com.cn/zh/gallery/campus-of-sjtu/</loc>
+    <lastmod>2023-01-14T13:55:38+08:00</lastmod>
+  </url><url>
+    <loc>https://walden.genway.com.cn/zh/categories/%E9%AD%94%E9%83%BD%E6%8E%A0%E5%BD%B1/</loc>
+    <lastmod>2023-01-14T13:55:38+08:00</lastmod>
+  </url><url>
+    <loc>https://walden.genway.com.cn/zh/tags/%E4%B8%8A%E6%B5%B7%E4%BA%A4%E9%80%9A%E5%A4%A7%E5%AD%A6/</loc>
+    <lastmod>2023-01-14T13:55:38+08:00</lastmod>
+  </url><url>
+    <loc>https://walden.genway.com.cn/zh/blog/nepal-trekking-abc/</loc>
+    <lastmod>2023-01-09T21:58:50+08:00</lastmod>
+  </url><url>
+    <loc>https://walden.genway.com.cn/zh/blog/</loc>
+    <lastmod>2023-01-09T21:58:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://walden.genway.com.cn/blog/samples-of-shortcodes/"
+                href="https://walden.genway.com.cn/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://walden.genway.com.cn/zh/blog/samples-of-shortcodes/"
+                href="https://walden.genway.com.cn/zh/blog/"
                 />
   </url><url>
-    <loc>https://walden.genway.com.cn/zh/tags/shortcode/</loc>
-    <lastmod>2022-12-15T10:10:34+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/tags/shortcode/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/tags/shortcode/"
-                />
+    <loc>https://walden.genway.com.cn/zh/tags/%E5%B0%BC%E6%B3%8A%E5%B0%94/</loc>
+    <lastmod>2023-01-09T21:58:50+08:00</lastmod>
   </url><url>
-    <loc>https://walden.genway.com.cn/zh/tags/markdown/</loc>
-    <lastmod>2022-12-14T20:18:32+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/tags/markdown/"
-                />
+    <loc>https://walden.genway.com.cn/zh/tags/%E5%BE%92%E6%AD%A5/</loc>
+    <lastmod>2023-01-09T21:58:50+08:00</lastmod>
   </url><url>
-    <loc>https://walden.genway.com.cn/zh/blog/samples-of-markdown-elements/</loc>
-    <lastmod>2022-12-14T20:18:32+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://walden.genway.com.cn/blog/samples-of-markdown-elements/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://walden.genway.com.cn/zh/blog/samples-of-markdown-elements/"
-                />
+    <loc>https://walden.genway.com.cn/zh/categories/%E8%A1%8C%E8%80%85%E6%97%A0%E7%96%86/</loc>
+    <lastmod>2023-01-09T21:58:50+08:00</lastmod>
   </url>
 </urlset>

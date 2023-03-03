@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>图片 on 瓦尔登湖</title>
-    <link>https://walden.genway.com.cn/zh/gallery/</link>
-    <description>Recent content in 图片 on 瓦尔登湖</description>
+    <title>魔都掠影 on 瓦尔登湖</title>
+    <link>https://walden.genway.com.cn/zh/categories/%E9%AD%94%E9%83%BD%E6%8E%A0%E5%BD%B1/</link>
+    <description>Recent content in 魔都掠影 on 瓦尔登湖</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-Hans-CN</language>
     <managingEditor>13050082@qq.com (家猫)</managingEditor>
     <webMaster>13050082@qq.com (家猫)</webMaster>
-    <lastBuildDate>Sat, 21 Jan 2023 16:50:12 +0800</lastBuildDate><atom:link href="https://walden.genway.com.cn/zh/gallery/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>猫家生活记录</title>
-      <link>https://walden.genway.com.cn/zh/gallery/dailylife-at-cat-home/</link>
-      <pubDate>Sat, 21 Jan 2023 16:50:12 +0800</pubDate>
-      <author>13050082@qq.com (家猫)</author>
-      <guid>https://walden.genway.com.cn/zh/gallery/dailylife-at-cat-home/</guid>
-      <description>&lt;p&gt;不经意之中，时常会发生些有意思的事情，看我们是否有心去发现。发现有意思的事情多了，生活也就有意思了。&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sat, 14 Jan 2023 13:55:38 +0800</lastBuildDate><atom:link href="https://walden.genway.com.cn/zh/categories/%E9%AD%94%E9%83%BD%E6%8E%A0%E5%BD%B1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>冬日里的交大校园</title>
       <link>https://walden.genway.com.cn/zh/gallery/campus-of-sjtu/</link>
